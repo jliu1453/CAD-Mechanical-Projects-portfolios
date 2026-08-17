@@ -3,7 +3,9 @@ Mechanical Engineering CAD Portfolio
 This repository contains selected CAD projects and practice models created through coursework, tutorials, and personal practice.
 
 Skills
-AutoCAD
+SolidWorks
+Onshape
+AutoCad
 2D CAD drafting
 Basic 3D modeling
 Dimensioning and technical drawings
