@@ -1,6 +1,8 @@
 Mechanical Engineering CAD Portfolio
 
 This repository contains selected CAD projects and practice models created through coursework, tutorials, and personal practice.
+The main personal/class projects are stored in the correlated folders.
+See engineering drawing folder and Cad file folder for other relevent works.
 
 Skills:
 SolidWorks,
